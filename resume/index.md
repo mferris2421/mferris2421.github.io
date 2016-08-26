@@ -6,19 +6,19 @@ title: Resume
 __Systems Administrator__
 
 ###  
-<a href="ferris.m@gmail.com">ferris.m@gmail.com</a>
-| <a href="http://mattferris.com">Personal Site</a>
-
-<div id="webaddress"></div>
+<!-- <a href="Email">Email</a> -->
+| <a href="http://mattferris.com">mattferris.com</a> |
 
 
 ## Currently
 
-Working for Florida Department of Transportation (FDOT)
- 
-as a __Systems Administrator__ in the Application Services Bureau. 
+Working as a __Systems Administrator__ for the Florida 
 
-My job consists of supporting developers and business needs of FDOT.
+Department of Transportation (FDOT) in the Application Services Bureau. 
+
+My primary duties consist of supporting developers and the business needs of FDOT
+
+by maintaing web and application servers hosting internal and external applications.
 
 ## Work History
 
