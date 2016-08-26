@@ -3,18 +3,21 @@ layout: resume
 title: Resume
 ---
 # Matt Ferris
-Systems Administrator.
+__Systems Administrator__
 
-<div id="webaddress">
+###  
 <a href="ferris.m@gmail.com">ferris.m@gmail.com</a>
 | <a href="http://mattferris.com">Personal Site</a>
-</div>
+
+<div id="webaddress"></div>
 
 
 ## Currently
 
-Working for Florida Department of Transportation (FDOT) 
-as a Systems Administrator in the Application Services Bureau. 
+Working for Florida Department of Transportation (FDOT)
+ 
+as a __Systems Administrator__ in the Application Services Bureau. 
+
 My job consists of supporting developers and business needs of FDOT.
 
 ## Work History
@@ -25,7 +28,7 @@ __Florida Department of Transportation__
 - Windows Server and Application Administrator
 
 
-`08/2014 - 08/2015`
+``08/2014 - 08/2015``
 __Yuma Solutions__
 
 - Network Support Technician
