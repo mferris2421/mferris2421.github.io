@@ -7,7 +7,7 @@ Systems Administrator.
 
 <div id="webaddress">
 <a href="ferris.m@gmail.com">ferris.m@gmail.com</a>
-| <a href="http://mattferris.com">Personal Site/a>
+| <a href="http://mattferris.com">Personal Site</a>
 </div>
 
 
