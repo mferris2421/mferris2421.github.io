@@ -27,10 +27,12 @@ __Florida Department of Transportation__
 
 `08/2014 - 08/2015`
 __Yuma Solutions__
+
 - Network Support Technician
 
 `02/2012 - 08/2014`
 __Epyon Technologies__
+
 - Network Consultant
 
 ## Education
