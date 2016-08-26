@@ -1,6 +1,6 @@
 ---
-layout: Resume
-title: resume
+layout: resume
+title: Resume
 ---
 # Matt Ferris
 Systems Administrator.
