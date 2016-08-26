@@ -30,26 +30,33 @@ __Yuma Solutions__
 
 - Network Support Technician
 
+
 `02/2012 - 08/2014`
 __Epyon Technologies__
 
 - Network Consultant
+
+
 
 ## Education
 
 `2010-2014`
 __Florida State University.__
 
+
 `2010-2012`
 __Tallahassee Community College__
+
 
 ## Certifications
 
 `2012`
 __Microsoft Certified Solutions Expert: Server Infrastructure__
 
+
 `2012`
 __Microsoft Certified Solutions Associate: Windows Server 2012__
+
 
 ## Awards
 
@@ -57,8 +64,5 @@ __Microsoft Certified Solutions Associate: Windows Server 2012__
 __Brother of the Year__, Beta Psi Chapter, Alpha Kappa Psi
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
