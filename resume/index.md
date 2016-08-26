@@ -13,22 +13,25 @@ Systems Administrator.
 
 ## Currently
 
-Working for Florida Department of Transportation (FDOT) as a Systems Administrator in the Application Services Bureau. My job consists
-of supporting developers and business needs of FDOT.
+Working for Florida Department of Transportation (FDOT) 
+as a Systems Administrator in the Application Services Bureau. 
+My job consists of supporting developers and business needs of FDOT.
 
 ## Work History
 
 `08/2015 - Present`
 __Florida Department of Transportation__
-__Windows Server and Application Administrator__
+
+- Windows Server and Application Administrator
 
 
 `08/2014 - 08/2015`
 __Yuma Solutions__
-__Network Support Technician__
+- Network Support Technician
 
-'02/2012 - 08/2014`
+`02/2012 - 08/2014`
 __Epyon Technologies__
+- Network Consultant
 
 ## Education
 
@@ -36,7 +39,7 @@ __Epyon Technologies__
 __Florida State University.__
 
 `2010-2012`
-__Tallahassee Community COllege__
+__Tallahassee Community College__
 
 ## Certifications
 
@@ -49,7 +52,7 @@ __Microsoft Certified Solutions Associate: Windows Server 2012__
 ## Awards
 
 `2012`
-Brother of the Year, Beta Psi Chapter, Alpha Kappa Psi
+__Brother of the Year__, Beta Psi Chapter, Alpha Kappa Psi
 
 
 <!-- ### Footer
