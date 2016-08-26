@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matt Ferris, Launches Site"
+title: Site launch
 date: 2016-08-24
 ---
 
