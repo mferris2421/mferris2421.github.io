@@ -44,7 +44,9 @@ __Epyon Technologies__
 ## Education
 
 `2010-2014`
-__Florida State University.__
+__Florida State University__
+
+- B.S. in Management Information Systems
 
 
 `2010-2012`
